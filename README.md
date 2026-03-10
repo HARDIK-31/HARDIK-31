@@ -30,7 +30,4 @@
 ![](https://github-profile-trophy.vercel.app/?username=hardik-dev31&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 ![](https://github.com/mscoutermarsh/mscoutermarsh/blob/master/teeter.gif?raw=true)
 
-📊 &nbsp;**Github Stats**
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hardik-dev31&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="hardik-dev31" /></p>
-
 # Made in README.md with ❤️
